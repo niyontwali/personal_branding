@@ -1,3 +1,4 @@
+[![Development workflow](https://github.com/niyontwali/personal_branding/actions/workflows/development.yml/badge.svg?branch=develop&event=push)](https://github.com/niyontwali/personal_branding/actions/workflows/development.yml)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
